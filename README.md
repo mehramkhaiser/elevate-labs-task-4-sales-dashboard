@@ -29,7 +29,7 @@ Superstore sales dataset containing order dates, product categories, regions, sa
 | Total Quantity Sold | 37,873 |
 
 ## Interactive Dashboard
-[View the Dashboard](PASTE_YOUR_LOOKER_STUDIO_LINK_HERE)
+[View the Dashboard](https://datastudio.google.com/reporting/65f1de1c-0b78-4be3-ab25-27983d8cdcc8))
 
 ## Objective
 To transform raw sales data into an interactive visual report that helps users explore sales trends, compare product categories, and understand regional performance.
